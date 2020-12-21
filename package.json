@@ -1,0 +1,8 @@
+{
+  "name": "onlineJudgeRewrite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pikokr/onlineJudgeRewrite",
+  "author": "pikokr <parangee9706@gmail.com>",
+  "license": "MIT"
+}

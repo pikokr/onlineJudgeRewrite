@@ -3,4 +3,4 @@ const config = require('./config.json')
 
 const app = express()
 
-app.listen(config.server.port)
+app.listen(config.server.port, () => console.log(`Listening on port ${config.server.port}`))
